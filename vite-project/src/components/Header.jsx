@@ -3,8 +3,8 @@ import Nav from './Nav';
 function Header() {
   return (
     <header>
-      <h1>My Awesome Blog</h1>
-      <h2>Thoughts, stories, and ideas</h2>
+      <h1>Satre's List</h1>
+      <h2>Better-Dressed People</h2>
       <Nav />
     </header>
   );
